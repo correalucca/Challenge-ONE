@@ -22,8 +22,6 @@ Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação res
 
 Por exemplo: "gato" => "gaitober" gaitober" => "gato".
 
-Obrigado  <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
-
  <div style="display:flex;" align="center">
    <h2>Badge referente ao termino do Challenge</h2>
  </div>
