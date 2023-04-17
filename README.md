@@ -22,6 +22,7 @@ Challenge Oracle ONE Sprint 01: Primeiro desafio de Lógica de Programação res
 
 Por exemplo: "gato" => "gaitober" gaitober" => "gato".
 
+ 
  <div style="display:flex;" align="center">
    <h2>Badge referente ao termino do Challenge</h2>
  </div>
